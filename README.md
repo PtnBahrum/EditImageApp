@@ -1,7 +1,7 @@
 # EditImageApp
 This application is used to edit meme images obtained from https://imgflip.com/api. Users can also share the memes they have created through Twitter and Facebook.
 
-####Screenshot
+#### Screenshot
 
 ![WhatsApp Image 2024-02-14 at 10 26 47](https://github.com/PtnBahrum/EditImageApp/assets/81005654/c58ebc9d-266d-4e34-9469-ff52ce43e9ab)
 <br>
