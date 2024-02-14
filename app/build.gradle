@@ -25,7 +25,7 @@ android {
         manifestPlaceholders = [
 //                TWITTER_CONSUMER_KEY: "your_twitter_consumer_key",
 //                TWITTER_CONSUMER_SECRET: "your_twitter_consumer_secret",
-                FACEBOOK_APP_ID: "3617894595134455"
+                FACEBOOK_APP_ID: "FB_APP_ID"
         ]
     }
 
